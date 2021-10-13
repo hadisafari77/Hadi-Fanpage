@@ -1,4 +1,3 @@
-# Hadi-Fanpage
 <b>Jonas Brothers Fan Tribute Page</b>
 <!DOCTYPE html>
 <html lang="en">
@@ -75,7 +74,4 @@
     <li>Joe Jonas</li>
     <li>Kevin Jonas</li>
 </ol>
-
-
-
 </body>
